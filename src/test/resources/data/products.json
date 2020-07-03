@@ -1,0 +1,16 @@
+{
+  "dataset": [
+    {
+      "product": "MacBook",
+      "euro": "518.16€",
+      "poundSterlin": "£454.10",
+      "dollar": "$602.00"
+    },
+    {
+      "product": "iPhone",
+      "euro": "106.04€",
+      "poundSterlin": "£92.93",
+      "dollar": "$123.20"
+    }
+  ]
+}

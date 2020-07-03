@@ -1,0 +1,6 @@
+PageObject\HeaderPage.class
+PageObject\RegisterPage.class
+PageObject\BasePage.class
+com\techground\Main.class
+PageObject\MainPage.class
+pojo\RegisterData.class
